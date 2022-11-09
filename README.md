@@ -1,5 +1,5 @@
 <h1 align="center"> </🌼Luis>  
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Destek+%26+İletişim+İçin%3A+LUISCLASS%20¿%239512" alt="Luis Was Here" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=2500&pause=500&color=14FF00&width=530&lines=🌼+Ücretli+%26+Public-Ekip+İçin%3A+LUISCLASS%20¿%239512" alt="Luis Was Here" />
 </h1>
 <p align="center">
  <a href="https://discord.com/users/727342003339395146" target"blank_"><img src="https://img.shields.io/badge/Discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
