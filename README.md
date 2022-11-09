@@ -27,7 +27,7 @@
 
 <h1 align="center"> Tek Real Discord Hesabım <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h1>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/727342003339395146?hideDiscrim=true)](https://discord.com/users/727342003339395146)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/727342003339395146?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/727342003339395146)
 
 
 <h3 align="left">❤️ GitHub Stats:</h3>
