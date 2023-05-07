@@ -18,7 +18,7 @@
 <h2 align="center">Who İs Luis? <img src="https://cdn.discordapp.com/emojis/903736036725760020.gif?size=96" width="30px"> </h2>
 
 
-- Selam Ben Luis. 8 Aydır JavaScript Ve Node.js Üzerinde Kodlama Yapıyorum
+- Selam Ben Luis. 1 Yıldan Fazladır JavaScript Ve Node.js Üzerinde Kodlama Yapıyorum
 
 
 <h3>:blossom: Profile Stats</h3>
